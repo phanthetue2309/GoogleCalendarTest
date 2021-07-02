@@ -1,3 +1,3 @@
 # GoogleCalendarTest
 
-Test Using Google C
+Test Using Google Calendar in Viet Nam using Python
